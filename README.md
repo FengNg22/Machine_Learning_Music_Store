@@ -1,6 +1,6 @@
 # Machine_Learning_Music_Store
 
-##Build model for music store member and prediction
+## Build model for music store member and prediction
 1. Import the data
 2. Clean data (formating, dupplicated data, missing/ imcomplete data)
 3. Split the data into training(80%)/ test(20%) sets
